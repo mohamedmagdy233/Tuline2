@@ -1,3 +1,25 @@
+
+![Screenshot 2023-12-14 075138](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/dfbae8b2-5ed0-4b48-98fa-552479efd7c2)
+
+![Screenshot 2023-12-14 074633](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/3ea68475-ac30-40ec-aa8f-a1c2b8cc5550)
+
+![Screenshot 2023-12-14 075043](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/3571729e-12dc-47bd-94b7-d046d867e198)
+
+
+![Screenshot 2023-12-14 074812](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/3684799e-5fea-4c8f-bb98-09e46cd98c11)
+
+![Screenshot 2023-12-14 074847](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/a8a908a9-aad2-4294-a05b-fda741df5082)
+
+![Screenshot 2023-12-14 074935](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/af80c235-45cd-42d2-a032-a76b7bab8942)
+![Screenshot 2023-12-14 074949](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/b3287665-7e78-4dbd-b739-c3986d040da3)
+
+![Screenshot 2023-12-14 075043](https://github.com/mohamedmagdy233/Tuline2/assets/97023312/4a2f0fa2-8865-4003-a5ff-279adbac98fc)
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
